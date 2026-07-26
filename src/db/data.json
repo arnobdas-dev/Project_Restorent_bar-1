@@ -1,0 +1,261 @@
+{
+  "menu": [
+    {
+      "id": "m1",
+      "title": "A5 Miyazaki Wagyu Strip",
+      "description": "6oz of authentic Japanese A5 wagyu, seared on cherrywood. Served with shaved black truffles, smoked flake salt, and a sweet aged soy reduction.",
+      "image": "https://images.unsplash.com/photo-1544025162-d76694265947?auto=format&fit=crop&w=800&q=80",
+      "price": 165,
+      "category": "food",
+      "tags": [
+        "Chef's Signature",
+        "A5 Grade",
+        "Exclusive"
+      ],
+      "isSpecial": true
+    },
+    {
+      "id": "m2",
+      "title": "Glazed Chilean Sea Bass",
+      "description": "Pan-roasted sea bass fillet in a caramelized white miso infusion. Served over baby bok choy and ginger-scented forbidden black rice.",
+      "image": "https://images.unsplash.com/photo-1519708227418-c8fd9a32b7a2?auto=format&fit=crop&w=800&q=80",
+      "price": 54,
+      "category": "food",
+      "tags": [
+        "Gluten Free",
+        "Best Seller"
+      ],
+      "isSpecial": false
+    },
+    {
+      "id": "m3",
+      "title": "Black Truffle Tagliolini",
+      "description": "House-crafted egg pasta tossed in a rich butter emulsion, loaded with fresh hand-shaved Italian summer truffles and 24-month aged Parmigiano-Reggiano.",
+      "image": "https://images.unsplash.com/photo-1645112411341-6c4fd023714a?auto=format&fit=crop&w=800&q=80",
+      "price": 48,
+      "category": "food",
+      "tags": [
+        "Vegetarian",
+        "Fresh Pasta"
+      ],
+      "isSpecial": true
+    },
+    {
+      "id": "m4",
+      "title": "Smoked Rosemary Old Fashioned",
+      "description": "Bespoke small-batch bourbon stirred with orange bitters and house-crafted maple syrup, served over a clear hand-cut ice sphere, smoked tableside with fresh rosemary.",
+      "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?auto=format&fit=crop&w=800&q=80",
+      "price": 24,
+      "category": "drink",
+      "tags": [
+        "Alchemist Mix",
+        "Smoked"
+      ],
+      "isSpecial": true
+    },
+    {
+      "id": "m5",
+      "title": "Neon Velvet Cocktail",
+      "description": "Empress gin shaken with fresh lavender nectar, yuzu juice, and elderflower liqueur, topped with a glowing tonic float that shifts colors under blacklight.",
+      "image": "https://images.unsplash.com/photo-1536935338788-846bb9981813?auto=format&fit=crop&w=800&q=80",
+      "price": 22,
+      "category": "drink",
+      "tags": [
+        "Club Exclusive",
+        "Instagrammable"
+      ],
+      "isSpecial": false
+    },
+    {
+      "id": "m6",
+      "title": "Grand Cru Obsidian Martini",
+      "description": "Ultra-premium vodka infused with activated coconut charcoal and dry vermouth, served in a gold-rimmed coupe with a cocktail onion and pearl dust.",
+      "image": "https://images.unsplash.com/photo-1574096079513-d8259312b785?auto=format&fit=crop&w=800&q=80",
+      "price": 26,
+      "category": "drink",
+      "tags": [
+        "Vip Choice",
+        "Obsidian Series"
+      ],
+      "isSpecial": true
+    },
+    {
+      "id": "m7",
+      "title": "Elysium Gold Leaf Fondant",
+      "description": "Rich Belgian dark chocolate cake with a molten core of white chocolate ganache, draped in 24k edible gold leaf and paired with house-spun vanilla bean ice cream.",
+      "image": "https://images.unsplash.com/photo-1606313564200-e75d5e30476c?auto=format&fit=crop&w=800&q=80",
+      "price": 28,
+      "category": "dessert",
+      "tags": [
+        "Gold Plated",
+        "Indulgence"
+      ],
+      "isSpecial": true
+    },
+    {
+      "id": "m8",
+      "title": "Deconstructed Matcha Soufflé",
+      "description": "Light and airy organic Uji matcha soufflé served with hot salted caramel sauce and fresh raspberries.",
+      "image": "https://images.unsplash.com/photo-1579372786545-d24232daf58c?auto=format&fit=crop&w=800&q=80",
+      "price": 18,
+      "category": "dessert",
+      "tags": [
+        "Organic",
+        "Modernist"
+      ],
+      "isSpecial": false
+    }
+  ],
+  "events": [
+    {
+      "id": "e1",
+      "title": "DJ Sasha & John Digweed – Echoes of Progress",
+      "description": "An exclusive extended 4-hour progressive house journey by the absolute legendary pioneers of electronic music. Immersive structural lighting grids and audio-visual setups.",
+      "image": "https://images.unsplash.com/photo-1516450360452-9312f5e86fc7?auto=format&fit=crop&w=800&q=80",
+      "date": "2026-07-25",
+      "time": "10:00 PM - 04:00 AM",
+      "price": 45,
+      "djLineup": [
+        "Sasha",
+        "John Digweed",
+        "Elysium Residents"
+      ],
+      "category": "club"
+    },
+    {
+      "id": "e2",
+      "title": "Neon Syndicate feat. DJ Blackout",
+      "description": "Prepare for an audio-visual trip into deep industrial tech-house. Immersive laser tunnels, heavy subbass, and raw techno frequencies from midnight onwards.",
+      "image": "https://images.unsplash.com/photo-1470225620780-dba8ba36b745?auto=format&fit=crop&w=800&q=80",
+      "date": "2026-08-01",
+      "time": "11:00 PM - 05:00 AM",
+      "price": 30,
+      "djLineup": [
+        "DJ Blackout",
+        "Kora (Live)",
+        "Aniki"
+      ],
+      "category": "club"
+    },
+    {
+      "id": "e3",
+      "title": "Jazz & Caviar Lounge: The Gatsby Session",
+      "description": "Enjoy a sophisticated dining ambiance in our restaurant room with live improvisational jazz by the Marcus Miller Trio. Special pricing on Dom Pérignon and caviar flights.",
+      "image": "https://images.unsplash.com/photo-1511192336575-5a79af67a629?auto=format&fit=crop&w=800&q=80",
+      "date": "2026-07-29",
+      "time": "07:00 PM - 10:00 PM",
+      "price": 0,
+      "djLineup": [
+        "Marcus Miller Trio",
+        "Aria Scott (Vocal)"
+      ],
+      "category": "restaurant"
+    }
+  ],
+  "reservations": [
+    {
+      "id": "res_sample1",
+      "name": "Christian Bale",
+      "email": "bale@gotham.com",
+      "phone": "+1 (310) 987-6543",
+      "date": "2026-07-24",
+      "time": "08:30 PM",
+      "guests": 4,
+      "type": "vip",
+      "section": "VIP Lounge Booth #3",
+      "status": "approved",
+      "specialRequests": "Needs utmost privacy. Ordering 2 bottles of Dom Pérignon Brut Rose. Ensure strict security entry.",
+      "createdAt": "2026-07-21T09:12:00.000Z"
+    },
+    {
+      "id": "res_sample2",
+      "name": "Sophia Loren",
+      "email": "sophia.l@cinema.it",
+      "phone": "+39 02 8876 123",
+      "date": "2026-07-22",
+      "time": "07:00 PM",
+      "guests": 2,
+      "type": "restaurant",
+      "section": "Chef's Garden Patio",
+      "status": "pending",
+      "specialRequests": "Prefer a quiet table near the flower installation. Celebrating an anniversary.",
+      "createdAt": "2026-07-21T11:45:00.000Z"
+    }
+  ],
+  "testimonials": [
+    {
+      "id": "t1",
+      "name": "Alexander Sinclair",
+      "role": "VIP Member",
+      "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=150&q=80",
+      "quote": "Elysium is a complete sensory masterclass. Starting our night with the Wagyu Ribeye and transitioning directly into the high-tech Funktion-One dance arena was absolutely flawless."
+    },
+    {
+      "id": "t2",
+      "name": "Isabella Sterling",
+      "role": "Michelin Guide Reviewer",
+      "avatar": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&w=150&q=80",
+      "quote": "The food displays a culinary integrity rarely seen in nightlife establishments. The Black Truffle Tagliolini is exceptional, and their cocktail mixology is pure sensory magic."
+    }
+  ],
+  "settings": {
+    "clubName": "ELYSIUM",
+    "tagline": "SENSORY COEXISTENCE OF SOUND & TASTE",
+    "restaurantAbout": "Elysium's restaurant room celebrates wood-fired fine cuisine. We combine custom imported A5 beef cuts with hand-picked organic elements. Guided by our award-winning culinary staff, each dish is a bespoke experience of textures, scents, and flavors, providing a refined gateway to the evening.",
+    "clubAbout": "As the moon rises, Elysium's sound theater comes alive. Featuring a professional Funktion-One sound system, dynamic kinetic laser rigs, and custom visuals, we host world-class electronic music legends and premium selectors, crafting a nightlife sanctuary that breathes rhythm.",
+    "address": "101 Ocean Drive, South Beach, FL 33139",
+    "phone": "+1 (305) 555-0199",
+    "email": "reservations@elysium-lounge.com",
+    "googleMapUrl": "https://maps.google.com/maps?q=101%20Ocean%20Drive,%20Miami%20Beach&t=&z=13&ie=UTF8&iwloc=&output=embed",
+    "seoDescription": "Elysium Lounge & Club - Premium dining and high-end nightlife sanctuary in South Beach, Miami. Wood-fired steaks, artisan cocktails, and world-class house and techno events.",
+    "seoKeywords": "nightclub, fine dining miami, vip table booking, electronic music, miami beach clubs, sushi bar, mixology, funtion one sound",
+    "socialLinks": {
+      "instagram": "https://instagram.com/elysium.lounge",
+      "facebook": "https://facebook.com/elysium.lounge",
+      "soundcloud": "https://soundcloud.com/elysium.lounge",
+      "twitter": "https://twitter.com/elysium_lounge"
+    },
+    "hours": {
+      "restaurant": "Open Daily: 5:00 PM - 10:30 PM",
+      "club": "Thu - Sat: 11:00 PM - 4:30 AM"
+    },
+    "sectionsVisibility": {
+      "hero": true,
+      "about": true,
+      "menu": true,
+      "events": true,
+      "reservations": true,
+      "testimonials": true,
+      "contact": true
+    },
+    "worldSettings": {
+      "soundVolume": 0.25,
+      "soundMuted": true,
+      "ambientAudioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3"
+    },
+    "analytics": {
+      "totalVisits": 148,
+      "reservationsCount": 2,
+      "messagesCount": 0
+    }
+  },
+  "messages": [],
+  "logs": [
+    {
+      "id": "l_1784633195386_s8x88",
+      "timestamp": "2026-07-21T11:26:35.386Z",
+      "ip": "127.0.0.1",
+      "action": "Admin Login",
+      "details": "Successful administration dashboard login",
+      "status": "success"
+    },
+    {
+      "id": "init_log",
+      "timestamp": "2026-07-21T11:00:00.000Z",
+      "ip": "127.0.0.1",
+      "action": "System Boot",
+      "details": "Elysium Lounge database initialized with premium settings",
+      "status": "success"
+    }
+  ]
+}

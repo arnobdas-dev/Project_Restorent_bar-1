@@ -1,0 +1,47 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Plus Jakarta Sans", "Inter", sans-serif;
+  --font-serif: "Playfair Display", serif;
+  --font-syne: "Syne", sans-serif;
+  
+  --color-gold-50: #faf7ed;
+  --color-gold-100: #f2ebd5;
+  --color-gold-200: #e5d7ad;
+  --color-gold-300: #d4be7a;
+  --color-gold-400: #c2a151;
+  --color-gold-500: #b58936;
+  --color-gold-600: #9e702c;
+  --color-gold-700: #835626;
+  --color-gold-800: #6d4624;
+  --color-gold-900: #5c3b21;
+}
+
+html {
+  scroll-behavior: smooth;
+  background-color: #050507;
+}
+
+/* Hide scrollbar default styles but keep functionality */
+::-webkit-scrollbar {
+  width: 5px;
+  height: 5px;
+}
+::-webkit-scrollbar-track {
+  background: rgba(0, 0, 0, 0.5);
+}
+::-webkit-scrollbar-thumb {
+  background: rgba(255, 255, 255, 0.15);
+  border-radius: 99px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(255, 255, 255, 0.3);
+}
+
+.text-glow-pink {
+  text-shadow: 0 0 10px rgba(236, 72, 153, 0.5), 0 0 20px rgba(236, 72, 153, 0.2);
+}
+
+.text-glow-amber {
+  text-shadow: 0 0 10px rgba(245, 158, 11, 0.4), 0 0 20px rgba(245, 158, 11, 0.1);
+}

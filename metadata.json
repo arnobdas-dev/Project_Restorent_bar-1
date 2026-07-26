@@ -1,0 +1,6 @@
+{
+  "name": "Arnob's Creation",
+  "description": "Minimalist, luxurious personal portfolio website and powerful admin dashboard for Arnob Chandra Das.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
