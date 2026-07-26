@@ -4,7 +4,7 @@ import path from 'path';
 import { defineConfig } from 'vite';
 
 export default defineConfig({
-  base: '/Main_portfolio/',
+  base: '/Project_Restorent_bar-1/',,
 
   plugins: [react(), tailwindcss()],
 
